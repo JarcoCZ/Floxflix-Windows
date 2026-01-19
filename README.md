@@ -12,7 +12,7 @@ FloxFlix is a desktop application for Windows designed to provide a simple and m
 
 # 📦 Installation
 
-Download the latest FloxFlixApp release from the [Releases](https://github.com/YourUsername/FloxflixApp/releases) tab:
+Download the latest FloxFlixApp release from the [Releases](https://github.com/JarcoCZ/Floxflix-Windows/releases) tab:
 
 1) Download `FloxflixApp-Win-x64.zip`.
 2) Extract the folder to any location on your PC.
@@ -28,7 +28,7 @@ Download the latest FloxFlixApp release from the [Releases](https://github.com/Y
 
 # 🔨 Latest Release
 
-* **[v1.0.0](https://github.com/YourUsername/FloxflixApp/releases/latest)**
+* **[v1.0.0](https://github.com/JarcoCZ/Floxflix-Windows/releases/latest)**
 
 # 📄 Changelog
 
