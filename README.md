@@ -14,7 +14,7 @@ FloxFlix is a desktop application for Windows designed to provide a simple and m
 
 Download the latest FloxFlixApp release from the [Releases](https://github.com/JarcoCZ/Floxflix-Windows/releases) tab:
 
-1) Download `FloxflixApp-Win-x64.zip`.
+1) Download `FloxflixApp.zip`.
 2) Extract the folder to any location on your PC.
 3) Open the folder and double-click `FloxflixApp.exe`.
 4) Enjoy browsing movies and TV series!
